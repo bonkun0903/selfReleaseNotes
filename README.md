@@ -108,12 +108,12 @@ AWS 1year
 
 ### ＜常駐開発＞
 
-◯B-dash 開発（旧：株式会社フロムスクラッチ様、現：データX様）
+◯[B-dash](https://bdash-marketing.com/?_bdsid=2UMchk.n+Q0sk3.1647992489219.1647992535&_bd_prev_page=https%3A%2F%2Fdata-x.co.jp%2Fservice%2F&_bdrpf=0) 開発（旧：株式会社フロムスクラッチ様、現：データX様）
 - 開発・実装
   - Vue.jsフロントエンド開発
   - RailsWebAPIの開発
 
-◯BIZREACH salesforce
+◯[BIZREACH](https://www.bizreach.jp/job-feed/public-advertising/7mm34wl/) salesforce
 - 開発・実装
   - salesforceカスタマイズ開発
     - ワークフロー開発
@@ -142,7 +142,10 @@ AWS 1year
 
 ◯ヤフオク在庫管理アプリ with RoR -> 現在参画しています。
 
-- 企画、
+- 企画、要件定義
+- 設計
+- 開発・実装
+- 運用・保守
 
 現在に至る
 
