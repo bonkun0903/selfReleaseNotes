@@ -95,7 +95,7 @@ AWS 1year
   - Flutterでフロントエンドコーディング
   - Rails web apiの追加開発
 
-〇プログラミング学園（https://www.vitalize.co.jp/inhouse_service）
+〇[プログラミング学園]（https://www.vitalize.co.jp/inhouse_service）
 
 ※自社からハイエンドなエンジニアを創出したいという想いから発起しました。
 
